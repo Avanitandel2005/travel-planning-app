@@ -11,3 +11,11 @@
 
                         Good luck!
                     
+
+## Features
+- User Registration & Login with JWT Authentication
+- Create, View, and Delete Travel Itineraries
+- Protected Dashboard Routes
+- Swiper Image Slider on Landing Page
+- Responsive Design for Desktop and Mobile Devices
+- Clean and User-Friendly UI
